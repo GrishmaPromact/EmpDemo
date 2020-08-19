@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmpDemo</string>
+    <string name="emp_name">Emp Name</string>
+    <string name="emp_salary">Emp Salary</string>
+    <string name="emp_age">Emp Age</string>
+    <string name="update">Update</string>
+</resources>
